@@ -1,3 +1,3 @@
 # Calculator
-making a functional calculator.
-using function and not eval
+making a basic calculator
+using a manual function and not eval for safty

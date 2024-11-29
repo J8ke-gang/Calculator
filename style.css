@@ -24,7 +24,7 @@ body {
     width: 100%;
     height: 80px;
     margin-bottom: 30px;
-    background-color: #222;
+    background-color: #000000;
     color: white;
     text-align: right;
     font-size: 3rem;
@@ -42,12 +42,19 @@ body {
 .btn {
     padding: 30px;
     font-size: 2rem;
-    background-color: #444;
+    background-color: #413e3e;
     color: white;
     border: none;
     border-radius: 10px;
     cursor: pointer;
     transition: background-color 0.3s ease;
+}
+
+footer{
+   text-align: center;
+   margin: 30px;
+   font-size: medium;
+   font-style: italic;
 }
 
 .btn:hover {

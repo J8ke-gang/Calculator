@@ -1,3 +1,4 @@
 # Calculator
-making a basic calculator
-using a manual function and not eval for safty
+-Making a basic calculator that will add, subtract, multiple and divide <br>
+-Using a manual function and not eval for safty reasons <br>
+-Will work on mobile
